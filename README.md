@@ -1,6 +1,6 @@
 # Introduction to Machine Learning 2024 from Çağan Kiper
 
-This repository contains the Jupyter Notebooks used in the "Introduction to Machine Learning" course provided by [Your Student Club Name]. These notebooks cover foundational topics and practical implementations to help beginners get started with machine learning concepts.
+This repository contains the Jupyter Notebooks used in the "Introduction to Machine Learning" course provided by ITU AI CLUB. These notebooks cover foundational topics and practical implementations to help beginners get started with machine learning concepts.
 
 ## Table of Contents
 
